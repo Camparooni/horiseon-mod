@@ -12,10 +12,6 @@ This project involved the refactoring of the starter code for the Horiseon Webpa
 * Consolidated CSS to remove any unnessary repeats
 * Added ALT text to img elements for accessibility
 
-## Usage
-
-This webpage layout can be viewed in a desktop web browser and is not optomized for smaller screens. 
-
 ### Links
 
 [Link to deployed website](https://camparooni.github.io/horiseon-mod/)
