@@ -1,5 +1,5 @@
 # Horiseon Webpage Refactor
-![horiseon-mod](horiseon-mod.PNG =200x200)
+![horiseon-mod](horiseon-mod.PNG){width=200 height=200}
 
 ## Description
 
